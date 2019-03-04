@@ -1,0 +1,7 @@
+{
+	"name": "Ethereum HD Wallet Transaction Signing",
+	"author": "Fortanix",
+	"description": "Ethereum HD wallet transaction signing  plugin sign message hash with private key",
+	"keywords": ["BlockChain"],
+	"plugin": "transaction_signing.lua"
+}
