@@ -3,5 +3,6 @@
 	"author": "Fortanix",
 	"description": "Ethereum HD wallet transaction signing  plugin sign message hash with private key",
 	"keywords": ["BlockChain"],
-	"plugin": "transaction_signing.lua"
+	"plugin": "transaction_signing.lua",
+	"version": "v1.0"
 }
